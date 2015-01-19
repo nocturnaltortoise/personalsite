@@ -1,0 +1,63 @@
+body{
+	background-image: url(images/poznanpoland.jpg);
+}
+
+.centre-box-wrapper{
+	width: 700px;
+	margin: 0 auto;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	box-shadow: 0 0 20px rgba(0,0,0,1);
+	padding: 20px;
+}
+
+ul{
+	list-style: none;
+	display: inline-block;
+	margin: 0;
+	padding-left: 10px;
+}
+
+.links-list a{
+	text-decoration: none;
+	color: #ccc;
+}
+
+.links-list a:hover{
+	color: #fff;
+	font-weight: bold;
+}
+
+.links-list li{
+	padding-bottom: 5px;
+}
+
+img{
+	display: inline-block;
+}
+
+.image-wrapper img{
+	border: 3px solid #000;
+}
+
+h1{
+	color: #fff;
+	font-weight: bold;
+	font-size: 2em;
+	padding: 10px;
+	margin: 0;
+}
+
+.list-wrapper{
+	display: inline-block;
+	padding-right: 20px;
+}
+
+.image-wrapper{
+	float: right;
+}
+
+.username{
+	font-style: italic;
+	font-weight: bold;
+}
