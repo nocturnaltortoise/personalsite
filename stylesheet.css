@@ -1,6 +1,18 @@
 body{
-	background-image: url(images/poznanpoland.jpg);
+	background-image: url(images/landsend.jpg);
+	background-repeat: no-repeat;
 }
+
+@font-face{
+	font-family: allerdisplay;
+	src: url(fonts/allerdisplay.ttf);
+}
+
+@font-face{
+	font-family: allerlight;
+	src: url(fonts/allerlight.ttf);
+}
+
 
 .centre-box-wrapper{
 	width: 700px;
@@ -9,6 +21,8 @@ body{
 	margin-bottom: 5%;
 	box-shadow: 0 0 20px rgba(0,0,0,1);
 	padding: 20px;
+	background-color: rgba(0,0,0,0.6);
+	
 }
 
 ul{
@@ -18,18 +32,24 @@ ul{
 	padding-left: 10px;
 }
 
-.links-list a{
+.link-logo-list a{
 	text-decoration: none;
 	color: #ccc;
+	font-family: allerlight;
+	font-size: 1.25em;
 }
 
-.links-list a:hover{
+.link-logo-list a:hover{
 	color: #fff;
 	font-weight: bold;
 }
 
-.links-list li{
-	padding-bottom: 5px;
+.link-logo-list li{
+	padding-bottom: 10px;
+}
+
+.link-logo-list img{
+	vertical-align: middle;
 }
 
 img{
@@ -43,18 +63,20 @@ img{
 h1{
 	color: #fff;
 	font-weight: bold;
-	font-size: 2em;
+	font-size: 2.5em;
 	padding: 10px;
 	margin: 0;
+	font-family: allerdisplay; 
 }
 
 .list-wrapper{
 	display: inline-block;
-	padding-right: 20px;
+	margin-top: 10px;
 }
 
 .image-wrapper{
 	float: right;
+	margin-top: 10px;
 }
 
 .username{
