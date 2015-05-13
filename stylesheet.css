@@ -1,3 +1,17 @@
+/*
+ * Clearfix written by Thierry Koblentz:
+ * http://yuiblog.com/blog/2010/09/27/clearfix-reloaded-overflowhidden-demystified/
+ */
+.clearfix:before,
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+.clearfix:after {clear: both;}
+.clearfix {zoom: 1;} /* IE < 8 */
+
 body{
 	background: no-repeat center center fixed;
 	background-size: cover;
@@ -22,7 +36,6 @@ body{
 	box-shadow: 0 0 20px rgba(0,0,0,1);
 	padding: 20px;
 	background-color: rgba(0,0,0,0.6);
-
 }
 
 ul{
@@ -72,6 +85,7 @@ h1{
 .list-wrapper{
 	display: inline-block;
 	margin-top: 10px;
+	float:left;
 }
 
 .image-wrapper{
