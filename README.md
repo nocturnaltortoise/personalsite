@@ -1,3 +1,8 @@
-# personalsite
+# Personal Website (simongt.com)
 
-A simple site with all the links for public profiles on several services.
+- A simple single-page-app with all the links for public profiles on several services.
+
+#To do:
+
+- CV/Portfolio page
+- About page?

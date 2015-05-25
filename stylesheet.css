@@ -4,10 +4,10 @@
  */
 .clearfix:before,
 .clearfix:after {
-  content: ".";
-  display: block;
-  height: 0;
-  overflow: hidden;
+	content: ".";
+	display: block;
+	height: 0;
+	overflow: hidden;
 }
 .clearfix:after {clear: both;}
 .clearfix {zoom: 1;} /* IE < 8 */
@@ -83,17 +83,28 @@ h1{
 }
 
 .list-wrapper{
-	display: inline-block;
 	margin-top: 10px;
-	float:left;
 }
 
 .image-wrapper{
-	float: right;
+	float: left;
 	margin-top: 10px;
 }
 
 .username{
 	font-style: italic;
 	font-weight: bold;
+}
+
+@media all and (max-width: 740px){
+	.centre-box-wrapper{
+		min-width: 200px;
+		width: 500px;
+	}
+	.list-wrapper{
+		float: none;
+	}
+  .image-wrapper{
+		float: none;
+  }
 }
