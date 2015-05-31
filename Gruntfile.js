@@ -1,3 +1,5 @@
+var mozjpeg = require('imagemin-mozjpeg');
+
 module.exports = function(grunt){
 
   grunt.initConfig({
@@ -23,18 +25,26 @@ module.exports = function(grunt){
         }
       }
     },
-    // scripts:{
-    //   files: ['*.css','*.html'],
-    //   tasks: ['livereload'],
-    //   options:{
-    //     spawn: false,
-    //   }
-      //can put autorun scripts in here like
-      //concat or uglify
-    //}
+
+    imagemin: {
+      dynamic: {
+        options: {                       // Target options
+          optimizationLevel: 3,
+          svgoPlugins: [{ removeViewBox: false }],
+          use: [mozjpeg()]
+        },
+        files: [{
+          expand: true,                     // Enable dynamic expansion
+          cwd: 'images/original-images/',   // Src matches are relative to this path
+          src: ['**/*.{png,jpg}'],         // Actual patterns to match
+          dest: 'images/'                  // Destination path prefix
+        }]
+      }
+    },
   });
 
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-contrib-imagemin');
   grunt.registerTask('default',['connect','watch']);//put default tasks to run when grunt is ran here
 };

@@ -20,12 +20,12 @@ body{
 
 @font-face{
 	font-family: allerdisplay;
-	src: url(fonts/allerdisplay.ttf);
+	src: url('fonts/allerdisplay.ttf') format('truetype');
 }
 
 @font-face{
 	font-family: allerlight;
-	src: url(fonts/allerlight.ttf);
+	src: url('fonts/allerlight.ttf') format('truetype');
 }
 
 .centre-box-wrapper{
@@ -99,7 +99,7 @@ h1{
 @media all and (max-width: 740px){
 	.centre-box-wrapper{
 		min-width: 200px;
-		width: 500px;
+		width: 350px;
 	}
 	.list-wrapper{
 		float: none;
