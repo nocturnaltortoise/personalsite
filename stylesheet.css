@@ -32,10 +32,10 @@ body{
 	width: 700px;
 	margin: 0 auto;
 	margin-top: 5%;
-	margin-bottom: 5%;
 	box-shadow: 0 0 20px rgba(0,0,0,1);
 	padding: 20px;
-	background-color: rgba(0,0,0,0.6);
+	background-color: #ccc;
+	background-color: rgba(0,0,0,0.4);
 }
 
 ul{
@@ -104,7 +104,7 @@ h1{
 	.list-wrapper{
 		float: none;
 	}
-  .image-wrapper{
+  	.image-wrapper{
 		float: none;
   }
 }
