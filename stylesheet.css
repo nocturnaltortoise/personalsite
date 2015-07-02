@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Averia+Serif+Libre:400,700);
+
 /*
  * Clearfix written by Thierry Koblentz:
  * http://yuiblog.com/blog/2010/09/27/clearfix-reloaded-overflowhidden-demystified/
@@ -18,7 +20,7 @@ body{
 	background-image: url(images/landsend.jpg);
 }
 
-@font-face{
+/*@font-face{
 	font-family: allerdisplay;
 	src: url('fonts/allerdisplay.ttf') format('truetype');
 }
@@ -26,7 +28,7 @@ body{
 @font-face{
 	font-family: allerlight;
 	src: url('fonts/allerlight.ttf') format('truetype');
-}
+}*/
 
 .centre-box-wrapper{
 	width: 700px;
@@ -41,11 +43,11 @@ body{
 .centre-box-wrapper p{
 	color: #fff;
 	line-height: 1.6em;
-	font-family: allerlight;
+	font-family: 'Averia Serif Libre';
 }
 
 .project-box{
-	width: 700px;
+	width: 800px;
 	margin: 0 auto;
 	margin-top: 20px;
 	box-shadow: 0 0 20px rgba(0,0,0,1);
@@ -61,14 +63,14 @@ body{
 .project-row img{
 	border: 3px solid #000;
 	margin: 10px;
-	width: 55%;
+	width: 45%;
 }
 
 .project-row p{
-	width: 45%;
+	width: 55%;
 	color: #fff;
 	line-height: 1.6em;
-	font-family: allerlight;
+	font-family: 'Averia Serif Libre';
 }
 
 ul{
@@ -81,7 +83,7 @@ ul{
 .link-logo-list a{
 	text-decoration: none;
 	color: #ccc;
-	font-family: allerlight;
+	font-family: 'Averia Serif Libre';
 	font-size: 1.25em;
 }
 
@@ -112,7 +114,7 @@ h1{
 	font-size: 2.5em;
 	padding: 10px;
 	margin: 0;
-	font-family: allerdisplay;
+	font-family: 'Averia Serif Libre';
 }
 
 .list-wrapper{
