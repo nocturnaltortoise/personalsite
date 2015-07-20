@@ -4,5 +4,4 @@
 
 #To do:
 
-- CV/Portfolio page
-- About page?
+
