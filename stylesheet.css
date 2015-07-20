@@ -71,6 +71,19 @@ body{
 	color: #fff;
 	line-height: 1.6em;
 	font-family: 'Averia Serif Libre';
+	position: relative;
+	top: 5px;
+}
+
+.project-row a{
+	color: #fff;
+	line-height: 1.6em;
+	font-family: 'Averia Serif Libre';
+	text-decoration: none;
+	background-color: rgba(0,0,0,0.8);
+	border-radius: 3px;
+	padding: 5px;
+	margin-left: 10px;
 }
 
 ul{

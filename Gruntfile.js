@@ -21,7 +21,7 @@ module.exports = function(grunt){
       server:{
         options: {
           port: 8000,
-          base: '/home/sturner/code/nocturnaltortoise.github.io/'
+          base: '/home/simon/code/nocturnaltortoise.github.io/'
         }
       }
     },
