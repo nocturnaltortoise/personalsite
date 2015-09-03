@@ -142,4 +142,8 @@ body {
 	.projects {
 		width: 90%;
 	}
+	
+	.content-header {
+		width: 80%;
+	}
 }
