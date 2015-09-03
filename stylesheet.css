@@ -36,11 +36,11 @@ body {
 .social-nav ul li{
 	padding: 0.5em;
 	display: inline;
+	transition: all ease 0.3s;
 }
 
 .social-nav a {
 	color: #fff;
-	/*margin: 0 10px;*/
 	font-size: 1.2em;
 	text-decoration: none;
 }
@@ -48,6 +48,19 @@ body {
 .social-nav li:hover {
 	background-color: #3C4147;
 	border-radius: 3px;
+}
+
+.content-header {
+	background-color: #fff;
+	width: 50%;
+	margin: 10px auto;
+	box-shadow: 0 0 10px rgba(0,0,0,0.4);
+	padding: 5px 15px;
+}
+
+.content-header p {
+	font-size: 1.2em;
+	text-align: center;
 }
 
 .projects {
@@ -90,4 +103,18 @@ body {
 
 .project-box ul {
 	padding-left: 10px;
+}
+
+.project-box a {
+	background-color: rgba(0,0,0,0.8);
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+	margin: 20px 0;
+	font-weight: bold;
+	transition: all ease 0.3s;
+}
+
+.project-box a:hover {
+	background-color: rgba(0,0,0,0.6);
 }
