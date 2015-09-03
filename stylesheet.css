@@ -103,6 +103,15 @@ body {
 
 .project-box ul {
 	padding-left: 10px;
+	margin-bottom: 25px;
+}
+
+.project-box ul li {
+	display: inline-block;
+	background-color: rgba(0,0,0,0.3);	
+	padding: 10px;
+	margin: 3px 0;
+	border-radius: 3px;
 }
 
 .project-box a {
