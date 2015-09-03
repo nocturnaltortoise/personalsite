@@ -69,7 +69,9 @@ body {
 	margin: 10px auto;
 	display: flex;
 	flex-wrap: wrap;
+	-webkit-flex-wrap: wrap;
 	align-items: flex-start;
+	-webkit-align-items: flex-start;
 }
 
 .project-box {
