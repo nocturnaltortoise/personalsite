@@ -5,11 +5,12 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="stylesheet.css" type="text/css">
+		<link rel="stylesheet" href="fonts/font-awesome-4.6.3/css/font-awesome.min.css">
 	</head>
-	
+
 	<body>
 		<div class="header-area">
-			<header class="title">Simon Turner</header>			
+			<header class="title">Simon Turner</header>
 		</div>
 		<nav class="social-nav">
 			<ul>
@@ -17,117 +18,167 @@
 				<li><a href="https://twitter.com/morphashark">Twitter</a></li>
 				<li><a href="https://github.com/nocturnaltortoise">Github</a></li>
 				<li><a href="http://uk.linkedin.com/pub/simon-turner/38/89/37/">LinkedIn</a></li>
-                <li><a href="CV.pdf">CV</a></li>
+        <li><a href="CV.pdf">CV</a></li>
 			</ul>
 		</nav>
-		
+
 		<div class="content-header">
-			<p>Computer Science student with a focus on engineering software that solves interesting challenges.
-               Willing to work with any language or technology stack. Enthusiastic to learn new things with new people.
-            </p>
+			<p>
+				Computer Science student with a focus on engineering software that solves interesting challenges.
+        Willing to work with any language or technology stack. Enthusiastic to learn new things with new people.
+      </p>
 		</div>
-		
+
 		<div class="projects">
-			<div class="project-box">
-				<img src="images/railsblog.png">
-				<h1>Ruby on Rails Blog</h1>
-				<em>As a side project to learn Rails and SASS, I made a simple blog capable of posting, editing 
-					and deleting articles.</em>
-				<h2>Technologies Used</h2>
-				<ul>
-					<li>Ruby on Rails</li>
-					<li>Sass</li>
-					<li>PostgreSQL</li>
-					<li>Heroku</li>
-				</ul>
-				<a href="https://github.com/nocturnaltortoise/railsblog">Github Repository</a>
-				<a href="https://intense-sands-2472.herokuapp.com/articles">Live Version</a>
+			<div class="column">
+				<div class="project-box">
+					<img src="images/oralhistory.png">
+					<h1>Village Memories</h1>
+					<em>
+						Working with a client and a team of other developers, I developed a webapp for archiving
+						the memories of people from Braithwell, Clifton and Micklebring. Users were able to submit
+						audio, text or images, and these contributions had to be moderated, with audio files being
+						transcribed via an api provided by <a href="http://webasr.org">WebASR</a>.
+					</em>
+					<h2>Technologies Used</h2>
+					<ul>
+						<li>Ruby on Rails</li>
+						<li>Sass</li>
+						<li>PostgreSQL</li>
+						<li>SQLite</li>
+						<li>JavaScript</li>
+						<li>JQuery</li>
+					</ul>
+				</div>
+
+				<div class="project-box">
+					<img src="images/sinatratwitterapp.png">
+					<h1>Twitter App</h1>
+					<em>I worked with a team of people for a client within the university to develop a Twitter web app
+						that allowed a user to manage and analyse data from a Twitter account.</em>
+					<h2>Technologies Used</h2>
+					<ul>
+						<li>Ruby</li>
+						<li>Sinatra</li>
+						<li>Twitter API</li>
+						<li>Bootstrap</li>
+						<li>Rake</li>
+						<li>SQLite3</li>
+						<li>JQuery</li>
+						<li>CSS3</li>
+					</ul>
+					<a href="https://github.com/nocturnaltortoise/SinatraTwitterApp/"><i class="fa fa-github"></i>Github Repository</a>
+				</div>
+
+				<div class="project-box">
+					<img src="images/naturaldeduction.png">
+					<h1>Natural Deduction Assistant</h1>
+					<em>
+						As a side project I helped write a natural deduction assistant in JavaScript.
+						This involved writing a parser to understand propositional logic, to allow rules
+						to be applied to expressions so that a proof could be constructed. We tested the
+					  parser and rule applications with Jasmine.
+					</em>
+					<h2>Technologies Used</h2>
+					<ul>
+						<li>JavaScript</li>
+						<li>Jasmine</li>
+					</ul>
+					<a href="https://github.com/jackdeadman/Natural-Deduction-Tool"><i class="fa fa-github"></i>Github Repository</a>
+				</div>
+
+				<div class="project-box">
+					<img src="images/railsblog.png">
+					<h1>Ruby on Rails Blog</h1>
+					<em>As a side project to learn Rails and SASS, I made a simple blog capable of posting, editing
+						and deleting articles.</em>
+					<h2>Technologies Used</h2>
+					<ul>
+						<li>Ruby on Rails</li>
+						<li>Sass</li>
+						<li>PostgreSQL</li>
+						<li>Heroku</li>
+					</ul>
+					<a href="https://github.com/nocturnaltortoise/railsblog"><i class="fa fa-github"></i>Github Repository</a>
+					<a href="https://intense-sands-2472.herokuapp.com/articles"><i class="fa fa-desktop"></i>Live Version</a>
+				</div>
 			</div>
-			
-			<div class="project-box">
-				<img src="images/sinatratwitterapp.png">
-				<h1>Twitter App</h1>
-				<em>I worked with a team of people for a client within the university to develop a Twitter web app 
-					that allowed a user to manage and analyse data from a Twitter account.</em>
-				<h2>Technologies Used</h2>
-				<ul>
-					<li>Ruby</li>
-					<li>Sinatra</li>
-					<li>Twitter API</li>
-					<li>Bootstrap</li>
-					<li>Rake</li>
-					<li>SQLite3</li>
-					<li>JQuery</li>
-					<li>CSS3</li>
-				</ul>
-				<a href="https://github.com/nocturnaltortoise/SinatraTwitterApp/">Github Repository</a>
-			</div>
-			<div class="project-box">
-				<img src="images/noddsocwpsite.png">
-				<h1>Wordpress Site</h1>
-				<em>I worked with the committee of the University of Sheffield Roleplaying Society (NODDSoc) to make a website 
-					they could use for news, posting about current games, and general info. This was a good experience of seeing 
-					a website project through from start to finish (and maintaining after development), for a real client. </em>
-				<h2>Technologies Used</h2>
-				<ul>
-					<li>Wordpress</li>
-					<li>MySQL</li>
-					<li>PHP</li>
-					<li>CSS3</li>
-				</ul>
-				<a href="http://noddsoc.co.uk">Live Version</a>
-			</div>
-			<div class="project-box">	
-				<img src="images/chatnodejs.png">
-				<h1>Frontend for NodeJS IM Client</h1>
-				<em>I worked with a friend on a NodeJS messaging app, doing most of the frontend design and development, 
-					including both SASS styling and also JavaScript for interactive content. I also helped setup build-tools 
-					and processes to aid in the app's development.</em>
-				<h2>Technologies Used</h2>
-				<ul>
-					<li>NodeJS</li>
-					<li>Express</li>
-					<li>MongoDB</li>
-					<li>Sass</li>
-					<li>Grunt</li>
-					<li>Jasmine</li>
-					<li>JavaScript</li>
-				</ul>	
-			</div>
-			<div class="project-box">
-				<img src="images/webassignmentscreen.png">
-				<h1>Static Site and Canvas Demo</h1>
-				<em>For an assignment, I made a company site using HTML, CSS and JavaScript (for an interactive canvas game).
-					This was good experience in making a site to requirements, especially requirements to do with accessibility
-					(choosing colours suitable for colour blind people, structuring content optimally for screen readers, generally 
-					fulfilling the W3C's guidelines on accessibility.)
-				</em>
-				<h2>Technologies Used</h2>
-				<ul>
-					<li>HTML5</li>
-					<li>JavaScript</li>
-					<li>CSS3</li>
-				</ul>
-				<a href="https://github.com/nocturnaltortoise/webassignment">Github Repository</a>
-			</div>
-			<div class="project-box">
-				<img src="images/wheretheyfell.png">
-				<h1>Bradford Hackathon</h1>
-				<em>With a team of two others, I helped make a web app that would estimate where a particular soldier (user's choice) 
-					from the Sheffield area died during the First World War. We didn't finish the website, but it was an interesting
-					insight into web APIs and web scraping with Python. Plus, we came second!</em>
-				<h2>Technologies Used</h2>
-				<ul>
-					<li>HTML5</li>
-					<li>CSS3</li>
-					<li>JQuery</li>
-					<li>Python</li>
-					<li>Wikipedia API</li>
-					<li>JSON</li>
-				</ul>
-				<a href="https://github.com/nocturnaltortoise/hackathon">Github Repository</a>
+
+			<div class="column">
+				<div class="project-box">
+					<img src="images/noddsocwpsite.png">
+					<h1>Roleplaying Society Website</h1>
+					<em>I worked with the committee of the University of Sheffield Roleplaying Society (NODDSoc) to make a website
+						they could use for news, posting about current games, and general info. This was a good experience of seeing
+						a website project through from start to finish (and maintaining after development), for a real client. </em>
+					<h2>Technologies Used</h2>
+					<ul>
+						<li>Wordpress</li>
+						<li>MySQL</li>
+						<li>PHP</li>
+						<li>CSS3</li>
+					</ul>
+					<a href="http://noddsoc.co.uk"><i class="fa fa-desktop"></i>Live Version</a>
+				</div>
+
+				<div class="project-box">
+					<img src="images/chatnodejs.png">
+					<h1>Instant Messaging Client for Computer Scientists</h1>
+					<em>
+						I worked with a friend on a NodeJS messaging app, doing most of the frontend design and development,
+						including both SASS styling and also JavaScript for interactive content. I also helped setup build-tools
+						and processes to aid in the app's development. The chat aimed to supply useful features for computer
+					  science students, such as inline latex rendering.
+					</em>
+					<h2>Technologies Used</h2>
+					<ul>
+						<li>NodeJS</li>
+						<li>Express</li>
+						<li>MongoDB</li>
+						<li>Sass</li>
+						<li>Grunt</li>
+						<li>Jasmine</li>
+						<li>JavaScript</li>
+					</ul>
+					<a href="https://github.com/jackdeadman/latex-chat"><i class="fa fa-github"></i>Github Repository</a>
+				</div>
+
+				<div class="project-box">
+					<img src="images/webassignmentscreen.png">
+					<h1>Static Site and Canvas Demo</h1>
+					<em>For an assignment, I made a company site using HTML, CSS and JavaScript (for an interactive canvas game).
+						This was good experience in making a site to requirements, especially requirements to do with accessibility
+						(choosing colours suitable for colour blind people, structuring content optimally for screen readers, generally
+						fulfilling the W3C's guidelines on accessibility.)
+					</em>
+					<h2>Technologies Used</h2>
+					<ul>
+						<li>HTML5</li>
+						<li>JavaScript</li>
+						<li>CSS3</li>
+					</ul>
+					<a href="https://github.com/nocturnaltortoise/webassignment"><i class="fa fa-github"></i>Github Repository</a>
+				</div>
+
+				<div class="project-box">
+					<img src="images/wheretheyfell.png">
+					<h1>Bradford Hackathon</h1>
+					<em>
+						With a team of two others, I helped make a web app that would estimate where a particular soldier
+						(user's choice) from the Sheffield area died during the First World War. We didn't finish the website,
+						but it was an interesting insight into web APIs and web scraping with Python. Plus, we came second!
+					</em>
+					<h2>Technologies Used</h2>
+					<ul>
+						<li>HTML5</li>
+						<li>CSS3</li>
+						<li>JQuery</li>
+						<li>Python</li>
+						<li>Wikipedia API</li>
+						<li>JSON</li>
+					</ul>
+					<a href="https://github.com/nocturnaltortoise/hackathon"><i class="fa fa-github"></i>Github Repository</a>
+				</div>
 			</div>
 		</div>
 	</body>
-			
-		

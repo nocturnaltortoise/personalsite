@@ -21,7 +21,7 @@ module.exports = function(grunt){
       server:{
         options: {
           port: 8000,
-          base: '/home/simon/code/nocturnaltortoise.github.io/'
+          base: '/home/sturner/code/webstuff/nocturnaltortoise.github.io/'
         }
       }
     },
@@ -36,7 +36,7 @@ module.exports = function(grunt){
         files: [{
           expand: true,                     // Enable dynamic expansion
           cwd: 'images/original-images/',   // Src matches are relative to this path
-          src: ['**/*.{png,jpg}'],         // Actual patterns to match
+          src: ['**/*.{png}'],         // Actual patterns to match
           dest: 'images/'                  // Destination path prefix
         }]
       }

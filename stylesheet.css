@@ -78,9 +78,13 @@ body {
 	align-items: flex-start;
 }
 
-.project-box {
-	margin: 10px;
+.column {
 	width: calc(50% - 20px);
+}
+
+.project-box {
+	margin: 15px;
+	padding-bottom: 10px;
 	background-color: #fff;
 	box-shadow: 0 0 10px rgba(0,0,0,0.4);
 }
@@ -110,18 +114,36 @@ body {
 
 .project-box ul {
 	padding-left: 10px;
-	margin-bottom: 25px;
+	margin-bottom: 10px;
 }
 
 .project-box ul li {
 	display: inline-block;
-	background-color: rgba(0,0,0,0.3);	
+	background-color: rgba(0,0,0,0.3);
 	padding: 10px;
 	margin: 3px 0;
 	border-radius: 3px;
 }
 
-.project-box a {
+.project-box a{
+	text-decoration: none;
+	color: #058bbc;
+	margin: 0 10px;
+	padding: 5px;
+	/*border-bottom: 1px dashed;*/
+}
+
+.project-box a i {
+	margin: 0;
+	margin-right: 5px;
+}
+
+.project-box em a{
+	padding: 0;
+	margin: 0;
+}
+
+/*.project-box a {
 	background-color: rgba(0,0,0,0.8);
 	color: #fff;
 	text-decoration: none;
@@ -129,26 +151,27 @@ body {
 	margin: 20px 0;
 	font-weight: bold;
 	transition: all ease 0.3s;
-}
+}*/
 
 .project-box a:hover {
-	background-color: rgba(0,0,0,0.6);
+	color: #035c7c;
+
 }
 
 @media all and (max-width: 850px) {
-	.project-box {
+	.column {
 		width: 100%;
 	}
-	
-	.project-box a {
+
+	/*.project-box a {
 		display: inline-block;
 		margin-bottom: 10px;
-	}
-	
+	}*/
+
 	.projects {
 		width: 90%;
 	}
-	
+
 	.content-header {
 		width: 80%;
 	}
