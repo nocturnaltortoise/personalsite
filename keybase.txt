@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/simonturner34
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nocturnaltortoise.github.io
+  * I am simonturner34 (https://keybase.io/simonturner34) on keybase.
+  * I have a public key with fingerprint 97B9 3041 B5BD 8F98 4EBD  7BCB B6A5 2376 A18B B4BA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01208d1283397bd377ff767b9265b521a0444403fd87a78861d7ffceb1d023b0153b0a",
+            "fingerprint": "97b93041b5bd8f984ebd7bcbb6a52376a18bb4ba",
+            "host": "keybase.io",
+            "key_id": "b6a52376a18bb4ba",
+            "kid": "0101ef70b5a6294a33abd7f6e350d03a61e4bf11d83894e7b9fd4305518f9001f44d0a",
+            "uid": "2181209b722bcff94c39e4a6f4c66c19",
+            "username": "simonturner34"
+        },
+        "service": {
+            "hostname": "nocturnaltortoise.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1487686570,
+    "expire_in": 157680000,
+    "prev": "2e72c09a6d462470918b0436a2af008baa92650380e7540c8bf7ef7f5f113b66",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMN3AnicbVJtUFRVGOY7QRGCigkj4WpQI1Pnft+7igwSUyOZZcjsMMJyz95z4eru
+3mX37gYSP6AUBHNiKtFyFMmcMKxRjAgbh1XLiOFjGnAoyWGEAkziK0JDhs4l/df5
+cc6cc573eZ/nOedqeKBfmH/Lp+u8J2sutPl3+j73+JmbMs+UElCTSwhTKbEHLS/I
+JiO3btmjyoSJACQFBJmkBJoWeSjTPK8oPMdDkeJYyFKkBBg8AK3IAi/xgsCRMkZY
+ESRlQNEQkCyeJCKZUFRHAXI5XapDx7SYS6QBQ0IWyoIiCgyCMg+tEHISS9E8J5EC
+hAw0Cgs1t1GBxUHJjZ5XNXyGN5Zlef+Df6gbkEjhAWQljhIZiaYl3EHhEM0CGdAS
+RyIGKiQpC7QgMgjLUWSGBixLYjkAkArDyMu6Pct0FCngIETIUxS0KorIWGkRMRKn
+MFaOs5KiAXQjl0OyI4x2q3bNoXtcDuSiGaIsmcBXXtWKjHQNOw9gDs1qgCSbrrl0
+TcXmClS90AP/8+h0abpm1WwYWKjrTrfJINJLnEblmwhaHnBaoOqQcba4wotcblVz
+ECYSI626ajQhGYHnBI7lQTKBip2qC1lUA8HiU4CH0Qd5DYeIp6xAlDiZ4SiGByJO
+FDA0J1GSAoAAJcl4ckALAPEsA6wCVHgcsMLiEGnIcYThssihESYBy5QKlmMocEjY
+ISLKLvt2Bfn5h/mFBAcYf84vLDTy4U+8cDhiKW9xLnBcSblsPtBf3rtxZYzj+5Yr
+l0KjVg9H74gaZGvCAlelwrn7W55uMGVPTHd9YQHdzY9ff/dKm5yxMuDon+bohBWz
+Y53nsu0B6baFNcM9xxr7473aT7tn/9b7ws5tWggWTNwY/8fU9prE4caOmIqO0bo7
+ifX50lztkUC1+oQnvPjOqaGoBF/9ycnJb3JHNled/zE2r3d19YbypyKD8sc/LH/V
+fliPj03ZsGV4aTCjwtO767HkkaKKtRfvPzLdezzVf+fSPcErJ319CAyeyrIMTJz9
+rlU64je6kT29dU3v8cGQyvi0gKlqtnxbIdwxI5c90/WL87cnRtP3dyfErDc/+UaJ
+PdHG7yOD0se8r/xqotOr39/WGHtW1u4m0q+lTJTONlWhjO7ma3Htp4dvRuT153oW
+P4hw3m0bKj5UfDQ//cXJms+iPqnvvHVthb2hdrFhoWTvos30dsPtqQF+puqfd5hc
+pi8zss5tpkXvzrjstLayR4Ojtde/TYvyN+fU3bxeeWs2rc3Z99b6wdqeakv4pfdO
+cLaKLmXgd9O6hXsX41qfNWfmbL0x3X7Qv+6j8FR7ku6rO1+4L6fial3pkDmot3km
+Z+8Px8jNvpCXRiyTle1B41moxTfgdiYv7n7hRvoBAYzZm+aJr9beTvJlbe95bvHl
++dAzw0Xzq/4K3LTf9vOX5ta5jo//BWnKzH8=
+=/py/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/simonturner34
+
+==================================================================
+
