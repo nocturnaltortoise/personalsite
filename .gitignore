@@ -3,3 +3,6 @@
 *.zip
 /node_modules
 googlea1cee02f94e4c3b3.html
+_site
+.sass-cache
+.jekyll-metadata
