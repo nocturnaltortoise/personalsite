@@ -1,8 +1,6 @@
-*.txt
-*.ttf
-*.zip
-/node_modules
-googlea1cee02f94e4c3b3.html
-_site
+*.gem
+.bundle
 .sass-cache
-.jekyll-metadata
+_site
+Gemfile.lock
+.DS_Store
