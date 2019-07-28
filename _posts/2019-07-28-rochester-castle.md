@@ -17,13 +17,17 @@ John was not a popular king, but he was not without tactical ability. On arrivin
 ## The rebels surrounded
 The keep at Rochester is a formidable structure. Its walls are almost 4 metres thick, and it stands 34 metres tall. It is divided into two halves by a great crosswall, and has a gatehouse-like structure attached to the front.
 
-<img src="/assets/images/rochester_keep_1.jpg" height="700px" style="float: left; margin-right: 30px;">
-
 In order to assault the gate, attackers would have had to climb the stairs in full view of the defenders, cross a narrow bridge, and then break the gate, before storming the gatehouse and breaking the inner gate. Even then those attackers would have only breached half of the keep.
 
-<img src="/assets/images/rochester_keep_2.jpg" height="300px" style="display: block">
-<small>Above: The inside of the keep, showing the thick crosswall that divides it.</small><br>
-<small>Left: The great keep at Rochester, with the well defended entrance path winding up the front.</small>
+<figure>
+  <img src="/assets/images/rochester_keep_1.jpg" height="700px">
+  <figcaption>The great keep at Rochester, with the well defended entrance path winding up the front.</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/images/rochester_keep_2.jpg" height="300px">
+  <figcaption>The inside of the keep, showing the thick crosswall that divides it.</figcaption><br>
+</figure>
 
 The challenge did not daunt John, and he began the trebuchet bombardment once again.
 
@@ -40,12 +44,15 @@ A fire was lit and the pit props collapsed.
 
 The south east tower split in two with a great rending crack before collapsing, taking some of the walls with it. Perhaps testament to how formidable a castle Rochester was, the king still did not storm the keep, instead waiting for the defenders to begin to starve, forcing them to surrender. One chronicler tells us that John wanted to execute all of the defenders, but was convinced out of it by one of his captains. Instead he imprisoned most of them, barring a crossbowman who had served the king all his life before defecting.
 
-<div style="display: flex">
-  <img src="/assets/images/rochester_south_east_tower.jpg" height="700px" style="margin-right: 30px">
+<figure>
+  <img src="/assets/images/rochester_south_east_tower.jpg" height="700px">
+  <figcaption>The south east tower, as rebuilt after the siege.</figcaption>
+</figure>
+
+<figure>
   <img src="/assets/images/rochester_keep_south_east.jpg" height="700px">
-</div>
-<small>Above left: The south east tower, as rebuilt after the siege.</small><br>
-<small>Above right: The inside of the south east corner of the keep. You can clearly see where the damage from the collapsing tower reached, from the broken arch.</small>
+  <figcaption>The inside of the south east corner of the keep. You can clearly see where the damage from the collapsing tower reached, from the broken arch.</figcaption>
+</figure>
 
 Within a year, the castle would be retaken by the rebels under Prince Louis of France, and not long after that, John would be dead.
 
