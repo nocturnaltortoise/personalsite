@@ -42,8 +42,8 @@ A fire was lit and the pit props collapsed.
 
 The south east tower split in two with a great rending crack before collapsing, taking some of the walls with it. Perhaps testament to how formidable a castle Rochester was, the king still did not storm the keep, instead waiting for the defenders to begin to starve, forcing them to surrender. One chronicler tells us that John wanted to execute all of the defenders, but was convinced out of it by one of his captains. Instead he imprisoned most of them, barring a crossbowman who had served the king all his life before defecting.
 
-<img src="/assets/images/rochester_south_east_tower.jpg" width="350px" min-width="350px" style="display: block">
-<small>The south east tower, as rebuilt after the siege.</small>
+<img src="/assets/images/rochester_south_east_tower.jpg" width="700px" min-width="350px" style="display: block">
+<small>The keep showing the round south east tower, as rebuilt after the siege.</small>
 
 <img src="/assets/images/rochester_keep_south_east_cropped.jpg" width="500px" min-width="350px" style="display: block">
 <small>The inside of the south east corner of the keep. You can clearly see where the damage from the collapsing tower reached, from the broken arch.</small>
