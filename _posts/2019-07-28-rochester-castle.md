@@ -53,13 +53,13 @@ I think this siege stands testament to the hatred both sides had for each other 
 
 ## Notes
 
-*Note 1*: It's unclear when the knights arrived - the constable took over from the archbishop on the king's orders in May 1215, and the siege began in October, but I've heard it described as the king being hot on the heels of the rebels, though I don't know the source for that.
+**Note 1**: It's unclear when the knights arrived - the constable took over from the archbishop on the king's orders in May 1215, and the siege began in October, but I've heard it described as the king being hot on the heels of the rebels, though I don't know the source for that.
 
-*Note 2*: Somewhere between 95 and 140 knights, plus archers and other foot soldiers - still a considerably smaller force than the king.
+**Note 2**: Somewhere between 95 and 140 knights, plus archers and other foot soldiers - still a considerably smaller force than the king.
 
-*Note 3*: The Barnwell chronicler and Roger of Wendover disagree on how the breach was made. Barnwell suggests it was made by the trebuchets, Wendover suggests a mine was used.
+**Note 3**: The Barnwell chronicler and Roger of Wendover disagree on how the breach was made. Barnwell suggests it was made by the trebuchets, Wendover suggests a mine was used.
 
-*Note 4*: This is one theory, wacky earlier theories include herding the pigs into the tunnel with flaming torches tied to them.
+**Note 4**: This is one theory, wacky earlier theories include herding the pigs into the tunnel with flaming torches tied to them.
 
 ## Sources
 
