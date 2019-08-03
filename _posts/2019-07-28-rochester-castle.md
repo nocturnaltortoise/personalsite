@@ -5,6 +5,8 @@ title: "Rochester Castle"
 
 # "Living memory does not recall a siege so fiercely pressed and so staunchly resisted."
 
+<a href="/">Back home</a>
+
 <figure>
   <img alt="Rochester castle, looking past the wall towards the keep." src="/assets/images/rochester_castle.jpg" width="700px" min-width="400px" style="display: block">
 </figure>
@@ -83,3 +85,6 @@ Various wikipedia articles, [here](https://en.wikipedia.org/wiki/Rochester_Castl
 Information on the signs at the castle itself.
 
 Marc Morris's documentary Castle (which you can find as a book [here](https://www.goodreads.com/book/show/965189.Castle))
+<br>
+
+<a href="/">Back home</a>
