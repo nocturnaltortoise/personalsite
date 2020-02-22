@@ -11,12 +11,13 @@ title: "Rochester Castle"
 
 In 1215 England was wracked with civil war.
 
-King John's barons had taken up arms against him. London, held by the rebel barons, was surrounded by a ring of castles including Rochester, which was held by the archbishop of Canterbury. The constable of the castle, sympathetic to the barons, opened his gates*<sup>1</sup> to a small contingent of rebel knights, led by William d'Aubigny. Unfortunately for the small force of at most 140 knights*<sup>2</sup>, the king was not far behind, and by October 1215 the king's army had arrived.
+King John's barons had taken up arms against him. London, held by the rebel barons, was surrounded by a ring of castles including Rochester, which was held by the archbishop of Canterbury. The constable of the castle, sympathetic to the barons, opened his gates\*<sup>1</sup> to a small contingent of rebel knights, led by William d'Aubigny. Unfortunately for the small force of at most 140 knights\*<sup>2</sup>, the king was not far behind, and by October 1215 the king's army had arrived.
 
 <figure>
   <img alt="The bridge over the river Medway at Rochester" src="/assets/images/rochester_bridge_1.jpg" width="700px" min-width="400px" style="display: block">
   <figcaption><small>The modern bridge over the river Medway.</small></figcaption>
 </figure>
+<br>
 
 John was not a popular king, but he was not without tactical ability. On arriving in Rochester he sent fire ships to block supplies coming down the Medway, and quickly took the bridge into the town. The rebels sent a small force out under Robert Fitzwalter out to retake the bridge, but to no avail. John quickly set about with his usual vindictive style, ransacking the cathedral and stabling his horses there as vengeance for the archbishop ceding the castle to the rebels. The rebels now trapped within the walls of the castle, he began to construct five trebuchets. John kept the trebuchet bombardment going day and night, and began undermining the outer wall. A breach was made*<sup>3</sup> and by November John held the outer walls, forcing the rebels back into the keep.
 
@@ -29,11 +30,13 @@ In order to assault the gate, attackers would have had to climb the stairs in fu
   <img alt="The keep, with its two front square towers, and front square gatehouse." src="/assets/images/rochester_keep_1.jpg" width="350px" min-width="350px" style="display: block">
   <figcaption><small>The great keep at Rochester, with the well defended entrance path winding up the front.</small></figcaption>
 </figure>
+<br>
 
 <figure>
   <img alt="The crosswall of the keep, with four archways and the well shaft in the middle. Through the archways you can see the windows and doorways of the other half of the keep." src="/assets/images/rochester_keep_2.jpg" width="700px" min-width="350px" style="display: block">
   <figcaption><small>The inside of the keep, showing the thick crosswall that divides it.</small></figcaption>
 </figure>
+<br>
 
 The challenge did not daunt John, and he began the trebuchet bombardment once again.
 
@@ -54,11 +57,13 @@ The south east tower split in two with a great rending crack before collapsing, 
   <img alt="The eastern side of the keep and outer wall, showing the round tower at the southeast corner." src="/assets/images/rochester_south_east_tower.jpg" width="700px" min-width="350px" style="display: block">
   <figcaption><small>The keep showing the round south east tower, as rebuilt after the siege.</small></figcaption>
 </figure>
+<br>
 
 <figure>
   <img alt="Two windows at the south east corner of the keep. One of them has a larger arch over it which abruptly stops where the wall has been filled in." src="/assets/images/rochester_keep_south_east_cropped.jpg" width="500px" min-width="350px" style="display: block">
   <figcaption><small>The inside of the south east corner of the keep. You can clearly see where the damage from the collapsing tower reached, from the broken arch.</small></figcaption>
 </figure>
+<br>
 
 Within a year, the castle would be retaken by the rebels under Prince Louis of France, and not long after that, John would be dead.
 
